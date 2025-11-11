@@ -5,7 +5,7 @@
 ## Deskripsi
 Aplikasi ini merupakan hasil praktikum Flutter yang menggunakan package geolator dan juga geocoding untuk mendeteksi lokasi pengguna (latitude dan longitude) serta menampilkan alamat lengkap berdasarkan koordinat yang diperoleh secara otomatis.
 
-**Tugas 2**: Jarak Real-time ke Titik Tetap
+## Tugas 2: Jarak Real-time ke Titik Tetap
 Manfaatkan fungsi Geolocator.distanceBetween dari Langkah 4.
 1. Buat variabel String? distanceToPNB; di MyHomePageState.
 2. Di dalam startTracking (di dalam .listen()), panggil fungsi untuk menghitung
